@@ -1,0 +1,46 @@
+Last login: Mon Jun 23 15:58:13 on ttys000
+n.ragimi@V9W1970GHF ~ % git clone https://github.com/Shahadah/devops-beginner.git
+Cloning into 'devops-beginner'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+n.ragimi@V9W1970GHF ~ % cd devops-beginner 
+n.ragimi@V9W1970GHF devops-beginner % nan0
+zsh: command not found: nan0
+n.ragimi@V9W1970GHF devops-beginner % ssh nano
+ssh: Could not resolve hostname nano: nodename nor servname provided, or not known
+n.ragimi@V9W1970GHF devops-beginner % nano newfile.txt
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                   File: newfile.txt                    Modified  
+
+Hello Devops Beginner!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            [ Unknown Command: ^S ]                             
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
